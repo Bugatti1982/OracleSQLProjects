@@ -6,7 +6,7 @@ Developed by: Brandon Welch
 DISCLAIMER:
 ---------------------------------------------
 This is only for educational purposes to showcase what concepts I have learned.
-This should not be used for usage of answers on tests nor should it be used for work that someone else has not done.
+This should not to be used for usage of answers on tests nor should it be used for work that someone else has not done.
 
 What are these projects? How did it get made?
 ---------------------------------------------
